@@ -11,7 +11,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <undertow.version>2.0.27.Final</undertow.version>
+        <undertow.version>2.2.15.Final</undertow.version>
         <resteasy.version>3.6.1.Final</resteasy.version>
         <weld.version>3.0.5.Final</weld.version>
         <slf4j.version>1.7.25</slf4j.version>
